@@ -1,1 +1,1 @@
-# radar-syatem-using-ultrasonic-sensor
+# radar-system-using-ultrasonic-sensor
